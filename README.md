@@ -1,3 +1,3 @@
-# 个人网站
+# Gezi
 
 Welcome to my wonderland
